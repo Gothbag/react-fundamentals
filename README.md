@@ -1,2 +1,2 @@
 # react-fundamentals
-This is based on Tyler McGinnis's React Fundamentals tutorial
+This is based on Tyler McGinnis' React Fundamentals tutorial
